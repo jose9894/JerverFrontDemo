@@ -1,11 +1,12 @@
 import { FaMapLocationDot } from "react-icons/fa6";
+import { MdRestaurantMenu } from "react-icons/md";
 import "../styles/pages.css";
 
 function Home() {
   return (
     <div className="Home-container">
       <div className="intro-container">
-      <p className="name-tag">Alo pizza & Kebaba</p>
+      <p className="name-tag">Alo pizza & Kebab</p>
       <p>De ringer... Vi bringer</p>
       <p>Mad ud af huset</p>
       </div>
