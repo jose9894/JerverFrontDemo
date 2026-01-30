@@ -3,7 +3,8 @@
   /* font-family: 'chewy'; */
   line-height: 1.0;
   font-weight: 400;
-  color: #EA3E14;
+  /* color: #EA3E14; */
+  color: #502314;
   background-color: #ffffff;
 
   font-synthesis: none;
@@ -13,11 +14,11 @@
 }
 
 a {
-  color: tomato;
+  color: #502314;
   text-decoration: inherit;
 }
 a:hover {
-  color: rgb(170, 65, 47);
+  color: #cc2229;
 }
 
 body {
@@ -26,7 +27,7 @@ body {
   /* place-items: center; */
   /* min-width: 320px; */
   /* min-height: 100vh; */
-overflow-x: hidden;
+  overflow-x: hidden;
 }
 
 h1 {

@@ -1,5 +1,5 @@
 import {Link} from "react-router-dom";
-import Logo from "../assets/Alo-pizza_logo.png"
+import Logo from "../assets/Alo-pizza_logo.png";
 import "../styles/components.css";
 
 
@@ -13,9 +13,6 @@ function Header() {
       </div>
       <div className="Logo-container">
         <img src={Logo} className="logo" alt="Alo Pizza logo" />
-      </div>
-      <div className="buttons-contianer">
-
       </div>
     </div>
   );

@@ -1,45 +1,54 @@
 .Layout-container{
 width: 100vw;
 height: 100vh;
-border: 1px solid rgb(255, 0, 0);
+/* border: 1px solid rgb(255, 0, 0); */
 display: flex;
 flex-direction: column;
 }
 
 
 .Content-container{
-    border: 1px solid rgb(255, 0, 157);
+    /* border: 1px solid rgb(255, 0, 157); */
     flex: 8;
 }
 
 .Footer-container{
-    border: 1px solid rgb(156, 28, 28);
+    /* border: 1px solid rgb(156, 28, 28); */
     flex: 1;
+    background-color: #370000;
+    color: #C3B3B3;
 }
 .Header-container{
-    border: 1px solid rgb(30, 255, 0);
+    /* border: 1px solid rgb(30, 255, 0); */
     flex: 1;
     display: flex;
     align-items: center;
-    justify-content: space-evenly;
+    justify-content: space-between;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.4);
+
 }
 
 .Nav-container{
     padding: 10px;
     margin: 10px;
     display: flex;
+    align-items: center;
     justify-content: space-evenly;
-    border: 1px solid black;
-    width: 20%;
+    /* border: 1px solid black; */
+    width: 25%;
+    height: 80%;
+    font-size: 25px;
+    gap: 15px;
 }
 
 .Logo-container{
-    width: 5%;
+    width: 15%;
     display: flex;
     align-items: center;
 }
 
 .Logo-container img {
   width: 100%;
+  object-fit: contain;
 }
 
