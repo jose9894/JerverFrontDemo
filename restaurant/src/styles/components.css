@@ -37,18 +37,19 @@ flex-direction: column;
     /* border: 1px solid black; */
     width: 25%;
     height: 80%;
-    font-size: 25px;
+    font-size: clamp(1rem, 5vw, 3rem);
     gap: 15px;
 }
 
 .Logo-container{
-    width: 15%;
+    width: clamp(1.5rem, 15vw, 10rem);
     display: flex;
     align-items: center;
+    /* border: 1px solid black; */
+
 }
 
 .Logo-container img {
   width: 100%;
-  object-fit: contain;
 }
 
