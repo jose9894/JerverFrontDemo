@@ -1,6 +1,7 @@
 import { FaMapLocationDot } from "react-icons/fa6";
 import { MdRestaurantMenu } from "react-icons/md";
-import "../styles/pages.css";
+import { LuAlarmClockCheck } from "react-icons/lu";
+import "../styles/HomePage.css";
 
 function Home() {
   return (
@@ -16,11 +17,17 @@ function Home() {
         </div>
         <div className="card-container">
           <div className="card">
-            <p>Vi er placeret ved <br />Silkeborgvej 60, 8000 Aarhus C</p>
+            <p className="card-text">Vi er placeret ved <br />Silkeborgvej 60, 8000 Aarhus C</p>
             <FaMapLocationDot />
           </div>
-          <div className="card"></div>
-          <div className="card"></div>
+          <div className="card">
+            <p className="card-text">Vi laver alt fra Pizza, Pita til tyrkisk Pide</p>
+            <MdRestaurantMenu/>
+          </div>
+          <div className="card">
+            <p className="card-text">Vi har åbent alle dage <br /> fra 16:00 til 21:00</p>
+            <LuAlarmClockCheck/>
+          </div>
         </div>
       </div>
     </div>

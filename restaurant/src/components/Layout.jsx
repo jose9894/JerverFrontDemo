@@ -10,8 +10,8 @@ function Layout() {
         <Header />
       <div className="Content-container">
         <Outlet />
-      </div>
         <Footer/>
+      </div>
     </div>
   );
 }

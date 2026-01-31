@@ -1,0 +1,38 @@
+{
+  "pizzas": [
+    { "id": 1, "menu_number": "1", "name": "Margherita", "category": "Pizza", "ingredients": ["tomat", "ost"], "price_standard": 48, "price_child": 38 },
+    { "id": 2, "menu_number": "2", "name": "Siciliana", "category": "Pizza", "ingredients": ["tomat", "ost", "ansjoser"], "price_standard": 59, "price_child": 48 },
+    { "id": 3, "menu_number": "3", "name": "Vesuvio", "category": "Pizza", "ingredients": ["tomat", "ost", "skinke", "champignon"], "price_standard": 65, "price_child": 48 },
+    { "id": 4, "menu_number": "4", "name": "La Quattro Stoon", "category": "Pizza", "ingredients": ["tomat", "ost", "skinke", "oksekød", "rejer", "champignon"], "price_standard": 59, "price_child": 48 },
+    { "id": 5, "menu_number": "5", "name": "Marinara", "category": "Pizza", "ingredients": ["tomat", "ost", "tunfisk", "muslinger", "rejer", "champignon"], "price_standard": 59, "price_child": 48 },
+    { "id": 6, "menu_number": "6", "name": "Calzone (indbagt)", "category": "Pizza", "ingredients": ["tomat", "ost", "oksekød", "champignon"], "price_standard": 59, "price_child": 48 },
+    { "id": 7, "menu_number": "7a", "name": "Pavorotti (indbagt)", "category": "Pizza", "ingredients": ["tomat", "ost", "skinke", "rejer", "ananas"], "price_standard": 62, "price_child": 50 },
+    { "id": 8, "menu_number": "7b", "name": "Pizza Kødssauce (indbagt)", "category": "Pizza", "ingredients": ["tomat", "ost", "champignon", "kødssauce"], "price_standard": 62, "price_child": 50 },
+    { "id": 9, "menu_number": "8", "name": "Vegetar", "category": "Pizza", "ingredients": ["tomat", "ost", "løg", "peber", "champignon", "artiskokker"], "price_standard": 60, "price_child": 48 },
+    { "id": 10, "menu_number": "9", "name": "Parisian", "category": "Pizza", "ingredients": ["tomat", "ost", "kebab", "pølse", "tomatskiver", "løg"], "price_standard": 59, "price_child": 48 },
+    { "id": 11, "menu_number": "10", "name": "De La Maison", "category": "Pizza", "ingredients": ["tomat", "ost", "oksemørbrad", "gorgonzola", "kebab"], "price_standard": 65, "price_child": 52 },
+    { "id": 12, "menu_number": "11", "name": "Romana", "category": "Pizza", "ingredients": ["tomat", "ost", "oksekød", "champignon", "ananas"], "price_standard": 59, "price_child": 48 },
+    { "id": 13, "menu_number": "12", "name": "Pepperoni", "category": "Pizza", "ingredients": ["tomat", "ost", "pepperoni"], "price_standard": 59, "price_child": 48 },
+    { "id": 14, "menu_number": "13", "name": "Capricciosa", "category": "Pizza", "ingredients": ["tomat", "ost", "oksekød", "skinke", "kebab", "pølse"], "price_standard": 65, "price_child": 52 },
+    { "id": 15, "menu_number": "14", "name": "De La Van", "category": "Pizza", "ingredients": ["tomat", "ost", "champignon", "kebab", "pepperoni", "oksekød"], "price_standard": 65, "price_child": 52 },
+    { "id": 16, "menu_number": "15", "name": "Kylling", "category": "Pizza", "ingredients": ["tomat", "ost", "kylling", "champignon", "peber"], "price_standard": 60, "price_child": 48 },
+    { "id": 17, "menu_number": "16", "name": "De Canovore", "category": "Pizza", "ingredients": ["tomat", "ost", "skinke", "pepperoni", "artiskok", "champignon"], "price_standard": 65, "price_child": 52 },
+    { "id": 18, "menu_number": "17", "name": "Amor", "category": "Pizza", "ingredients": ["tomat", "ost", "kylling", "champignon", "ananas", "majs", "peber"], "price_standard": 65, "price_child": 49 },
+    { "id": 19, "menu_number": "18", "name": "De La Lositta", "category": "Pizza", "ingredients": ["tomat", "ost", "kebab", "løg", "gorgonzola", "pepperoni"], "price_standard": 65, "price_child": 52 },
+    { "id": 20, "menu_number": "19", "name": "El Paso", "category": "Pizza", "ingredients": ["tomat", "ost", "skinke", "pepperoni", "pølser", "peber"], "price_standard": 65, "price_child": 52 },
+    { "id": 21, "menu_number": "20", "name": "Hawaii", "category": "Pizza", "ingredients": ["tomat", "ost", "skinke", "rejer", "kylling", "ananas"], "price_standard": 65, "price_child": 52 },
+    { "id": 22, "menu_number": "21", "name": "Broccoli", "category": "Pizza", "ingredients": ["tomat", "ost", "champignon", "pepperoni", "broccoli", "peber", "majs"], "price_standard": 65, "price_child": 52 },
+    { "id": 23, "menu_number": "22", "name": "Fantasi", "category": "Pizza", "ingredients": ["tomat", "ost", "pepperoni", "champignon", "kebab", "løg", "salat", "dressing"], "price_standard": 72, "price_child": 58 },
+    { "id": 24, "menu_number": "23", "name": "Amigo", "category": "Meksikansk Pizza", "ingredients": ["tomat", "ost", "oksekød", "champignon", "pepperoni", "løg"], "price_standard": 65, "price_child": 52 },
+    { "id": 25, "menu_number": "24", "name": "Amiga", "category": "Meksikansk Pizza", "ingredients": ["tomat", "ost", "kylling", "champignon", "pepperoni", "oliven"], "price_standard": 65, "price_child": 52 },
+    { "id": 26, "menu_number": "25", "name": "Senorita", "category": "Meksikansk Pizza", "ingredients": ["tomat", "ost", "champignon", "oliven", "løg", "peber", "pølser", "ananas"], "price_standard": 65, "price_child": 52 },
+    { "id": 27, "menu_number": "27", "name": "Store pide", "category": "Tyrkisk Pizza", "ingredients": ["tomat", "oksekød", "hakket løg", "peber", "specielle tyrkiske krydderier" ], "price_standard": 59, "price_child": null }
+  ],
+  "pita": [
+    { "id": 101, "menu_number": "28", "name": "Rulle kebab", "price": 40 },
+    { "id": 102, "menu_number": "29", "name": "Pita kebab", "price": 40 },
+    { "id": 103, "menu_number": "30", "name": "Pita med kylling", "price": 40 },
+    { "id": 104, "menu_number": "31", "name": "Pita med bøf", "price": 40 },
+    { "id": 105, "menu_number": "32", "name": "Pita med tun og salat", "price": 40 }
+  ]
+}

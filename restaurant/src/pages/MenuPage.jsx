@@ -1,4 +1,4 @@
-import "../styles/pages.css";
+import "../styles/MenuPage.css";
 
 
 function Menu () {
