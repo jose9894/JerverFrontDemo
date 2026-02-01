@@ -1,5 +1,5 @@
 {
-  "pizzas": [
+  "pizza": [
     { "id": 1, "menu_number": "1", "name": "Margherita", "category": "Pizza", "ingredients": ["tomat", "ost"], "price_standard": 48, "price_child": 38 },
     { "id": 2, "menu_number": "2", "name": "Siciliana", "category": "Pizza", "ingredients": ["tomat", "ost", "ansjoser"], "price_standard": 59, "price_child": 48 },
     { "id": 3, "menu_number": "3", "name": "Vesuvio", "category": "Pizza", "ingredients": ["tomat", "ost", "skinke", "champignon"], "price_standard": 65, "price_child": 48 },

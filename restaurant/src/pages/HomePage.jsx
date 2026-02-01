@@ -8,8 +8,8 @@ function Home() {
     <div className="Home-container">
       <div className="intro-container">
       <p className="name-tag">Alo pizza & Kebab</p>
-      <p>De ringer... Vi bringer</p>
-      <p>Mad ud af huset</p>
+      <p className="nameV2-tag">De ringer... Vi bringer</p>
+      <p className="nameV2-tag">Mad ud af huset</p>
       </div>
       <div className="border">
         <div className="text-container">
@@ -21,7 +21,7 @@ function Home() {
             <FaMapLocationDot />
           </div>
           <div className="card">
-            <p className="card-text">Vi laver alt fra Pizza, Pita til tyrkisk Pide</p>
+            <p className="card-text">Smag alt fra Pizza og Pita til ægte tyrkisk Pide</p>
             <MdRestaurantMenu/>
           </div>
           <div className="card">

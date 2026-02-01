@@ -30,6 +30,9 @@ body {
   overflow-x: hidden;
 }
 
+p {
+  margin: 0.25em 0; 
+}
 
 
 button {

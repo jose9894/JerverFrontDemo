@@ -1,0 +1,40 @@
+.pizza-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 80%;
+    font-size: clamp(0.5rem, 1.2vw, 1.25rem);
+}
+
+.size-container, .price-container{
+    display: flex;
+    gap: 15px;
+    justify-content: end;
+}
+
+.pizza-ingri{
+    display: flex;
+    font-size: clamp(0.2rem, 1vw, 1.25rem);
+}
+
+
+.pita-container {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    /* border: 1px solid rgb(255, 0, 157); */
+    width: 80%;
+    font-size: clamp(0.5rem, 1.2vw, 1.25rem);
+}
+
+.pita-info, .pizza-info, .info-container {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+.pita-price,
+.pizza-priceNorm,
+.pizza-priceChild, .pizza-ingri {
+    color: #cc2229;
+}
